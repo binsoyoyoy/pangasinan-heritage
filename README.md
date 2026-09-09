@@ -1,6 +1,6 @@
 # Pangasinan Heritage Digital Showcase
 
-**Student Name:** Vince Harold
+**Student Name:** Darang, Vince Harold
 **Selected Framework:** Next.js 14
 
 ### Live Website:
