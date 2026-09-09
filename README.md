@@ -1,3 +1,12 @@
+# Pangasinan Heritage Digital Showcase
+
+**Student Name:** Vince Harold
+**Selected Framework:** Next.js 14
+
+### Live Website:
+https://binsoyoyoy.github.io/pangasinan-heritage/
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
